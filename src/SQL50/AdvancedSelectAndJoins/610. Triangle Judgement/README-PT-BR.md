@@ -219,3 +219,7 @@ Este desafio reforça conceitos importantes de SQL como:
 - Criação de colunas derivadas
 
 É um exercício simples, porém muito útil para praticar **condições lógicas e colunas calculadas em SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

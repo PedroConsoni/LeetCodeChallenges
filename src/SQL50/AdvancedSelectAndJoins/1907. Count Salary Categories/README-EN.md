@@ -193,3 +193,7 @@ This challenge reinforces several important SQL concepts:
 - Combining multiple queries with `UNION`
 
 Although the problem is relatively simple, it demonstrates how SQL can transform raw numerical data into **structured and meaningful grouped results**, which is a common task in data analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

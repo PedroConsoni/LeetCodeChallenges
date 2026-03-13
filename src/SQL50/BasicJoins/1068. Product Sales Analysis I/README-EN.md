@@ -155,3 +155,5 @@ This exercise highlights how relational databases connect transactional data (sa
 Understanding `INNER JOIN` is fundamental for real-world analytics, reporting, and data engineering tasks where only matching records should be returned.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

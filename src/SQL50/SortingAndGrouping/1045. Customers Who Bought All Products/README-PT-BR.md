@@ -189,3 +189,7 @@ Este desafio reforça conceitos importantes de SQL:
 - Filtragem com `HAVING`
 
 É um excelente exercício para entender lógica de divisão relacional em SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

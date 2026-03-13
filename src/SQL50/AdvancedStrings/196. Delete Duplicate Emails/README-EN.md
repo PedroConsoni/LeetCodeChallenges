@@ -177,3 +177,7 @@ This challenge reinforces several important SQL concepts:
 - **Deleting rows based on ranking**
 
 It is a common real-world task in data cleaning and database management.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

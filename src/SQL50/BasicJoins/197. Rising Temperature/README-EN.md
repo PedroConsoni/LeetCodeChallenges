@@ -140,3 +140,5 @@ This challenge reinforces:
 It is a very important exercise for anyone studying SQL for Data Engineering or Analytics.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

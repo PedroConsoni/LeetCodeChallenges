@@ -113,3 +113,7 @@ Esse desafio reforça:
 - Tratamento de séries temporais
 
 É um exercício essencial para quem estuda SQL voltado para Engenharia de Dados ou Análise de Dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

@@ -195,3 +195,7 @@ This challenge reinforces several fundamental SQL concepts:
 - Sorting results with `ORDER BY`
 
 Although simple, this exercise is important for practicing **SQL filtering logic and result formatting**, which are essential skills when working with relational databases.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

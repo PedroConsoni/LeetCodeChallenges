@@ -100,3 +100,7 @@ Esse desafio reforça:
 - Ordenação com `ORDER BY`
 
 É um exercício simples, mas essencial para dominar lógica de filtragem em SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

@@ -119,3 +119,5 @@ Apesar de simples, este exercício demonstra como utilizar funções nativas do 
 Saber trabalhar com funções de string é essencial em cenários reais de processamento de texto, validação de dados e controle de qualidade de informações.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

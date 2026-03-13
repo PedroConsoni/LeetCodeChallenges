@@ -126,3 +126,7 @@ This challenge reinforces:
 - Counting related records inside the same table
 
 It is a fundamental SQL exercise for mastering relational data structures.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

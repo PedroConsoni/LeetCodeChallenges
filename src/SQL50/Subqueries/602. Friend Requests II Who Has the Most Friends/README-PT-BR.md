@@ -235,3 +235,7 @@ Esse desafio reforça vários conceitos importantes de SQL:
 - Ranqueamento de resultados com **ORDER BY**
 
 É um excelente exercício para entender como **normalizar dados de relacionamento e realizar agregações de forma eficiente**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

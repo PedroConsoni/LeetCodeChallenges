@@ -176,3 +176,7 @@ This challenge reinforces several important SQL concepts:
 - Sorting results with `ORDER BY`
 
 It is a useful exercise for understanding how SQL can detect **missing relationships in relational data**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

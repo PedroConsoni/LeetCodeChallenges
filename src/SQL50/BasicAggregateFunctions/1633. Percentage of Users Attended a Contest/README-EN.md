@@ -212,3 +212,7 @@ This challenge reinforces:
 - Sorting with multiple criteria
 
 It is an excellent exercise for mastering real-world reporting logic in SQL.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

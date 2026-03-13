@@ -159,3 +159,5 @@ This exercise highlights how relational databases connect data across tables.
 Understanding how `LEFT JOIN` works is fundamental for real-world scenarios in data engineering, analytics, and back-end systems where preserving unmatched records is essential.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

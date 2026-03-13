@@ -181,3 +181,5 @@ Identificar registros que existem em uma tabela, mas não possuem correspondênc
 Entender como combinar **LEFT JOIN**, filtro por `NULL` e agregação é fundamental para análise de dados, relatórios e tarefas de engenharia de dados.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

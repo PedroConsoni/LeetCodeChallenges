@@ -209,3 +209,7 @@ Esse desafio reforça:
 - Lógica analítica em SQL
 
 É um excelente exercício para dominar padrões analíticos em consultas SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

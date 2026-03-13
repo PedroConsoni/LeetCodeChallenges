@@ -127,3 +127,5 @@ Apesar de ser um exercício simples, ele é importante para consolidar a base de
 Compreender como operadores lógicos como **AND** funcionam é fundamental para escrever consultas precisas em cenários reais de análise de dados, engenharia de dados e desenvolvimento back-end.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

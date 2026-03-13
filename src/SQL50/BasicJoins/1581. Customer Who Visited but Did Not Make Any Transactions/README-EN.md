@@ -181,3 +181,5 @@ Identifying records that exist in one table but not in another.
 Understanding how to use `LEFT JOIN` together with `IS NULL` filtering and aggregation is essential for data analysis, reporting, and data engineering tasks.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

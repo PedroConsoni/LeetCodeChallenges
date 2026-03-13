@@ -187,3 +187,7 @@ Esse desafio reforça conceitos importantes de SQL, como:
 - **Consultas Top-N por grupo**
 
 É um problema clássico utilizado para praticar **consultas analíticas e ranqueamento em SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

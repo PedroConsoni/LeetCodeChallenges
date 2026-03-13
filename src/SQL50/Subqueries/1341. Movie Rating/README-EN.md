@@ -296,3 +296,7 @@ This challenge reinforces several important SQL concepts:
 - Combining result sets with `UNION ALL`
 
 It demonstrates how SQL can extract **multiple analytical insights from relational datasets in a single query**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

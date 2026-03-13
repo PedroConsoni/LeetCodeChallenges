@@ -178,3 +178,5 @@ This exercise demonstrates how SQL can be used for data cleaning and formatting.
 Proper string formatting is essential in real-world scenarios involving data standardization, user input normalization, and data quality improvement.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

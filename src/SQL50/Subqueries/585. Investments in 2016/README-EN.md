@@ -201,3 +201,7 @@ This challenge reinforces important SQL concepts:
 - **Numeric formatting**
 
 It is an excellent exercise for mastering **analytical SQL queries and window functions**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

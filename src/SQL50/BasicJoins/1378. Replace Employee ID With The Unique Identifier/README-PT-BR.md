@@ -159,3 +159,5 @@ Este exercício demonstra como bancos de dados relacionais conectam dados entre 
 Entender o funcionamento do **LEFT JOIN** é fundamental em cenários reais de engenharia de dados, análise de dados e desenvolvimento back-end, onde preservar registros não correspondentes é essencial.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

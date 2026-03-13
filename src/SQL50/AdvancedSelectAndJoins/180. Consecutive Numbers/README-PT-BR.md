@@ -197,3 +197,7 @@ Este desafio reforça conceitos importantes de SQL como:
 - Remoção de duplicatas com `DISTINCT`
 
 É um excelente exercício para aprender a **identificar padrões e sequências em dados relacionais utilizando SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

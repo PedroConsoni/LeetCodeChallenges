@@ -222,3 +222,7 @@ Este desafio reforça vários conceitos importantes:
 O desafio **Find Users With Valid E-Mails** é um ótimo exercício para praticar **validação de strings em SQL**.
 
 Ele demonstra como SQL pode ser usado não apenas para consultar dados, mas também para **validar formatos e garantir qualidade dos dados**, algo extremamente importante em sistemas reais de banco de dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

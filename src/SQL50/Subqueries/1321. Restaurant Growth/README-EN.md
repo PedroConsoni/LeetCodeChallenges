@@ -261,3 +261,7 @@ This challenge reinforces several important SQL concepts:
 - Formatting results
 
 It demonstrates how SQL can perform **time-based analytics and moving averages**, which are very common in financial and business data analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

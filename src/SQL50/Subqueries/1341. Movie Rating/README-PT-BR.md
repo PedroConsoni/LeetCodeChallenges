@@ -258,3 +258,7 @@ Esse desafio reforça vários conceitos importantes de SQL:
 - Combinação de resultados com `UNION ALL`
 
 Ele demonstra como o SQL pode ser utilizado para **realizar análises de dados mais avançadas a partir de múltiplas tabelas relacionais**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

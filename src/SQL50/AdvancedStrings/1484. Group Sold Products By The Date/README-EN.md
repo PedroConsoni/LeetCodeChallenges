@@ -274,3 +274,7 @@ It demonstrates how to:
 - Generate formatted outputs using string aggregation
 
 These techniques are widely used in **data analysis, reporting queries, and analytics pipelines**, making this problem highly relevant in real-world SQL scenarios.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

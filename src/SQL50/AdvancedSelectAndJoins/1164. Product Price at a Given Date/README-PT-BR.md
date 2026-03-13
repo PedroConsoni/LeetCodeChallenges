@@ -220,3 +220,7 @@ Este desafio reforça vários conceitos importantes de SQL:
 - Combinação de resultados com `UNION`
 
 É um ótimo exercício para aprender a **recuperar registros históricos mais recentes e lidar com ausência de dados em SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

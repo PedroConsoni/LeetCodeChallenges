@@ -166,3 +166,7 @@ This challenge reinforces fundamental SQL concepts:
 - Using aliases for clearer output
 
 Although simple, it is an essential exercise for understanding relational data modeling and aggregation queries.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

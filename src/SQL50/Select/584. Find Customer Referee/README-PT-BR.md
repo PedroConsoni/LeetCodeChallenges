@@ -171,3 +171,5 @@ Apesar de simples, este exercício ensina um ponto extremamente importante:
 Compreender o comportamento do `NULL` é fundamental para escrever filtros corretos em bancos de dados reais, especialmente em cenários de **engenharia de dados** e **desenvolvimento back-end**.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

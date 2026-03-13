@@ -161,3 +161,7 @@ Esse desafio reforça:
 - Tratamento adequado de valores `NULL`
 
 É um exercício essencial para dominar lógica relacional em SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

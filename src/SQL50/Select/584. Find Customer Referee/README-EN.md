@@ -164,3 +164,5 @@ This is a simple but extremely important exercise because it highlights a common
 Understanding how `NULL` behaves is essential for writing correct filters in real-world databases, especially in data engineering and back-end development scenarios.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

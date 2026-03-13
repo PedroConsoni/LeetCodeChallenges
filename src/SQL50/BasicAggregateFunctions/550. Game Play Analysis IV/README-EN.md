@@ -241,3 +241,7 @@ This challenge reinforces:
 - Formatting numeric output correctly
 
 It is an excellent problem for mastering retention analysis in SQL.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

@@ -177,3 +177,7 @@ Esse desafio reforça vários conceitos importantes de SQL, como:
 - **Remoção de registros com DELETE**
 
 Esse tipo de operação é muito comum em **processos de limpeza de dados e manutenção de bancos de dados**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

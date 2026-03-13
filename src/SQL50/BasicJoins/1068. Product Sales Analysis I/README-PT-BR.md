@@ -155,3 +155,5 @@ Este exercício demonstra como bancos de dados relacionais conectam dados transa
 Entender o funcionamento do **INNER JOIN** é fundamental para tarefas reais de análise, relatórios e engenharia de dados, onde apenas registros correspondentes devem ser retornados.
 
 ---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

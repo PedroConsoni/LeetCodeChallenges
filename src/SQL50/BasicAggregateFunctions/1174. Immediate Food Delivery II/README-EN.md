@@ -205,3 +205,7 @@ This challenge reinforces:
 - Clean reporting with `ROUND`
 
 It is a great exercise for mastering analytical SQL patterns involving first-event analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

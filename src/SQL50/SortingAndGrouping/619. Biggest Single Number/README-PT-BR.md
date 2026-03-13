@@ -174,3 +174,7 @@ Este desafio reforça conceitos importantes de SQL:
 - Aplicação de funções agregadas como `MAX`
 
 Apesar de simples, é um excelente exercício para compreender filtragem em nível de grupo e construção de queries em camadas.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

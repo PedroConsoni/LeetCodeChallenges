@@ -57,3 +57,7 @@ To solve this problem:
 3. Compute the **weighted average**:
 
    Weighted Average Formula:
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

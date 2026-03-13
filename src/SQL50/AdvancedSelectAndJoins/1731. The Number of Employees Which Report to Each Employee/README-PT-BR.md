@@ -198,3 +198,7 @@ Este desafio reforça conceitos avançados de SQL:
 - Relatórios agrupados
 
 É um exercício essencial para trabalhar com estruturas organizacionais e análises hierárquicas em bancos de dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

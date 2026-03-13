@@ -189,3 +189,7 @@ This challenge reinforces several important SQL concepts:
 - **Combining logical conditions with OR**
 
 It is a great exercise for practicing **text-based filtering in SQL queries**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

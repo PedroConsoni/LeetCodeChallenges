@@ -197,3 +197,7 @@ This challenge reinforces important SQL concepts such as:
 - Eliminating duplicates using `DISTINCT`
 
 It is an excellent exercise for learning how to **detect patterns and sequences in relational data using SQL**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

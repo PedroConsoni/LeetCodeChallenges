@@ -163,3 +163,7 @@ This challenge reinforces:
 - Handling `NULL` values correctly
 
 It is a very important SQL exercise for mastering relational logic.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

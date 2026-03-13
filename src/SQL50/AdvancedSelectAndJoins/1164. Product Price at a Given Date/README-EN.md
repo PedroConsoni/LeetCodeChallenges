@@ -220,3 +220,7 @@ This challenge reinforces several important SQL concepts:
 - Combining datasets using `UNION`
 
 It is a valuable exercise for learning how to **retrieve the latest valid records and handle missing historical data in SQL**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

@@ -235,3 +235,7 @@ This challenge reinforces several important SQL concepts:
 - Ranking results using **ORDER BY**
 
 It is a great exercise for understanding how to **normalize relationship data and perform aggregations efficiently**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

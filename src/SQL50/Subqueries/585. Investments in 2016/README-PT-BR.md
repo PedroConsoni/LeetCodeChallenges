@@ -181,3 +181,7 @@ Esse desafio reforça conceitos importantes de SQL, como:
 - **Formatação de números**
 
 É um excelente exercício para aprender a trabalhar com **consultas analíticas e funções de janela em SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

@@ -195,3 +195,7 @@ Este desafio reforça conceitos importantes de SQL como:
 - Limitação de resultados com `TOP`
 
 É um excelente exercício para entender como **analisar dados sequenciais e restrições acumuladas utilizando SQL**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

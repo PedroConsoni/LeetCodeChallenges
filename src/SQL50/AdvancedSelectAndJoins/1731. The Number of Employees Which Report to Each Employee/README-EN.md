@@ -198,3 +198,7 @@ This challenge reinforces advanced SQL concepts:
 - Grouped reporting queries
 
 It is an essential exercise for mastering real-world organizational data analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

@@ -172,3 +172,7 @@ This challenge reinforces essential SQL skills:
 - Using aliases for cleaner output
 
 It is a fundamental exercise for understanding daily active user calculations in real-world data analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

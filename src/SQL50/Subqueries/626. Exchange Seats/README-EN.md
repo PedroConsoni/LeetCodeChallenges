@@ -225,3 +225,7 @@ This challenge reinforces several important SQL concepts:
 - Sorting results with `ORDER BY`
 
 It demonstrates how SQL can be used to **rearrange structured data using logical rules**, which is a common requirement in data transformation tasks.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

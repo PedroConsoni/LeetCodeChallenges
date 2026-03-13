@@ -199,3 +199,7 @@ This challenge reinforces:
 - Multi-column grouping
 
 It is an excellent real-world reporting exercise using SQL.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

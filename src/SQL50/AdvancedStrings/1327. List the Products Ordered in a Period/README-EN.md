@@ -219,3 +219,7 @@ These techniques are commonly used in:
 - sales analytics
 - reporting dashboards
 - business intelligence queries
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

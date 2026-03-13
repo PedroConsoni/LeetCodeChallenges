@@ -233,3 +233,7 @@ Esse desafio reforça vários conceitos importantes de SQL:
 - Formatação de resultados
 
 Ele demonstra como o SQL pode ser usado para realizar **análises temporais e métricas de crescimento**, algo muito comum em análise de dados e inteligência de negócios.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

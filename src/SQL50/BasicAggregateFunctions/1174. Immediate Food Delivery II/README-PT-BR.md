@@ -205,3 +205,7 @@ Esse desafio reforça:
 - Construção de métricas analíticas em SQL
 
 É um excelente exercício para dominar análises baseadas em primeiro evento (first-event analysis).
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

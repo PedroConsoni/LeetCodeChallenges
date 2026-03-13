@@ -127,3 +127,5 @@ Although simple, this challenge is important because it strengthens the foundati
 Understanding how logical operators like **AND** work is essential for writing precise queries in data analysis, data engineering, and back-end development scenarios.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

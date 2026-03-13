@@ -219,3 +219,7 @@ This challenge reinforces important SQL concepts such as:
 - Creating derived columns
 
 It is a simple but effective exercise to practice **logical conditions and computed columns in SQL**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

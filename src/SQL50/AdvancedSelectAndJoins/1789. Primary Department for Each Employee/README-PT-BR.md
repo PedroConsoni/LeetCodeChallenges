@@ -218,3 +218,7 @@ Este desafio reforça vários conceitos importantes de SQL:
 - Tratamento de diferentes cenários lógicos dentro do mesmo conjunto de dados
 
 É um excelente exercício para entender como resolver **problemas condicionais de dados utilizando lógica SQL e operações de conjunto**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

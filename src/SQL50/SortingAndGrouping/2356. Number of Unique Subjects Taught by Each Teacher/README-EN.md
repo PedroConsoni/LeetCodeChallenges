@@ -172,3 +172,7 @@ This challenge reinforces fundamental SQL concepts:
 - Using column aliases for cleaner output
 
 Although straightforward, this problem is essential for mastering grouped aggregations and correctly counting unique values in relational databases.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

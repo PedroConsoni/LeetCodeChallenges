@@ -189,3 +189,7 @@ Esse desafio reforça conceitos importantes de SQL, como:
 - **Combinação de condições com OR**
 
 É um ótimo exercício para praticar **consultas SQL que envolvem filtragem textual**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

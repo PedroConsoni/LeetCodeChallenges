@@ -218,3 +218,7 @@ This challenge reinforces several important SQL concepts:
 - Handling different logical scenarios within the same dataset
 
 It is a great exercise for understanding how to solve **conditional data problems using SQL logic and set operations**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

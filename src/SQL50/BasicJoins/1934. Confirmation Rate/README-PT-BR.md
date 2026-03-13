@@ -160,3 +160,7 @@ Esse desafio reforça:
 - Cálculo de métricas percentuais
 
 É um exercício essencial para desenvolver lógica analítica em SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

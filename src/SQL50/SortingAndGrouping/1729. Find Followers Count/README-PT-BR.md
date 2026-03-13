@@ -166,3 +166,7 @@ Este desafio reforça conceitos fundamentais de SQL:
 - Uso de alias para melhor organização
 
 Apesar de simples, é um exercício essencial para entender modelagem relacional e consultas agregadas.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

@@ -193,3 +193,7 @@ Esse desafio reforça vários conceitos importantes de SQL:
 - Combinação de múltiplas consultas com `UNION`
 
 Embora seja um problema relativamente simples, ele demonstra como o SQL pode transformar dados numéricos brutos em **resultados agrupados e estruturados**, algo muito comum em análises de dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

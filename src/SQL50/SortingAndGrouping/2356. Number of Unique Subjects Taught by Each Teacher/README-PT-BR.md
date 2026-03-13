@@ -172,3 +172,7 @@ Este desafio reforça conceitos fundamentais de SQL:
 - Uso de alias para melhorar a legibilidade
 
 Apesar de ser um problema simples, ele é essencial para dominar agregações agrupadas e aprender a contar corretamente valores únicos em bancos de dados relacionais.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

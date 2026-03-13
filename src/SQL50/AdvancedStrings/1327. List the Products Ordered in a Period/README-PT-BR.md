@@ -219,3 +219,7 @@ Essas técnicas são amplamente usadas em:
 - análises de vendas
 - dashboards
 - consultas de business intelligence
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

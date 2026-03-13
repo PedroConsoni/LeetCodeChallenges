@@ -274,3 +274,7 @@ Ele demonstra como:
 - Criar saídas formatadas utilizando agregação de strings
 
 Essas técnicas são muito utilizadas em **análise de dados, relatórios e consultas analíticas**, tornando esse problema bastante relevante em cenários reais de SQL.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

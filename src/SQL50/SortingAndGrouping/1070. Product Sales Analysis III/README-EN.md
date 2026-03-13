@@ -180,3 +180,7 @@ This challenge reinforces important SQL concepts:
 - Filtering based on window function results
 
 It is a fundamental exercise for mastering analytical SQL queries.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

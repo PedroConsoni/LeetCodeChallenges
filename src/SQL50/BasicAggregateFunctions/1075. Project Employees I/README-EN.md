@@ -213,3 +213,7 @@ This challenge reinforces:
 - Formatting numeric results with `ROUND`
 
 It is a fundamental SQL problem for mastering aggregation with joins — a very common scenario in real-world data analysis.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

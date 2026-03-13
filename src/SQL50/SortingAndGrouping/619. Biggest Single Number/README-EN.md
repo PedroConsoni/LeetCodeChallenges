@@ -174,3 +174,7 @@ This challenge reinforces key SQL concepts:
 - Applying aggregate functions like `MAX`
 
 Although simple, it is a powerful exercise for understanding grouped filtering and layered query logic.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

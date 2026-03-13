@@ -195,3 +195,7 @@ This challenge reinforces important SQL concepts such as:
 - Returning limited results with `TOP`
 
 It is a great exercise for understanding how to **analyze sequential data and cumulative constraints using SQL**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

@@ -172,3 +172,7 @@ Este desafio reforça conceitos essenciais de SQL:
 - Uso de alias para melhor legibilidade
 
 É um exercício fundamental para entender como calcular usuários ativos diários (DAU) em cenários reais de análise de dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

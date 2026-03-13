@@ -227,3 +227,7 @@ Esse desafio reforça vários conceitos importantes de SQL:
 - Ordenação de resultados com `ORDER BY`
 
 Ele demonstra como o SQL pode ser utilizado para **reorganizar dados estruturados com base em regras lógicas**, algo muito comum em tarefas de transformação de dados.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

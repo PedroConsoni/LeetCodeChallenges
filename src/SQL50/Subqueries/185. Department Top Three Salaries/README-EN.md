@@ -221,3 +221,7 @@ This challenge reinforces important SQL concepts:
 - **Top-N queries per group**
 
 It is a classic SQL problem used to practice **ranking and analytical queries**.
+
+---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

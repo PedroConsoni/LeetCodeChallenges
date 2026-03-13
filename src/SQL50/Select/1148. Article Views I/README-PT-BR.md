@@ -195,3 +195,7 @@ Este desafio reforça vários conceitos fundamentais de SQL:
 - Ordenação de resultados com `ORDER BY`
 
 Embora seja um exercício simples, ele é excelente para praticar **lógica de filtragem em SQL e formatação de resultados**, habilidades essenciais ao trabalhar com bancos de dados relacionais.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***

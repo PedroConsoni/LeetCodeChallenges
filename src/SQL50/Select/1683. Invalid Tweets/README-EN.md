@@ -119,3 +119,5 @@ Although simple, this challenge highlights how SQL can filter data using built-i
 Understanding how to work with string functions is essential in real-world scenarios involving text processing, data validation, and data quality checks.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***

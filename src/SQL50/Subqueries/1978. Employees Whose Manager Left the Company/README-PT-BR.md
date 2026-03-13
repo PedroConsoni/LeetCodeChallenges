@@ -176,3 +176,7 @@ Esse desafio reforça diversos conceitos importantes de SQL:
 - Ordenação de resultados com `ORDER BY`
 
 É um exercício útil para entender como o SQL pode identificar **relações ausentes em dados relacionais**.
+
+---
+
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***
